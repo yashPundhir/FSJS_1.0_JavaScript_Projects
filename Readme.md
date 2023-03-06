@@ -23,3 +23,7 @@
 - ### [Random Quotes Generator](https://github.com/yashPundhir/Random_Quotes_Generator)
 
 ---
+
+- ### [Music Player](https://github.com/yashPundhir/Music_Player)
+
+---
