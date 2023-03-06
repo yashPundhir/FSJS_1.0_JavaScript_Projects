@@ -14,6 +14,10 @@
 
 ---
 
+- ### [See What You Type](https://github.com/yashPundhir/See_What_You_Type)
+
+---
+
 ## Advanced Level JS Assignments:
 
 - ### [Random Quotes Generator](https://github.com/yashPundhir/Random_Quotes_Generator)
