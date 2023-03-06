@@ -10,6 +10,10 @@
 
 ---
 
+- ### [Basic Counter](https://github.com/yashPundhir/Basic_Counter)
+
+---
+
 ## Advanced Level JS Assignments:
 
 - ### [Random Quotes Generator](https://github.com/yashPundhir/Random_Quotes_Generator)
