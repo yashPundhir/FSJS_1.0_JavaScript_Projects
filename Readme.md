@@ -27,3 +27,7 @@
 - ### [Music Player](https://github.com/yashPundhir/Music_Player)
 
 ---
+
+- ### [Video Player](https://github.com/yashPundhir/Video_Player)
+
+---
