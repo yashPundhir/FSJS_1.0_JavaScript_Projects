@@ -22,6 +22,10 @@
 
 ---
 
+- ### [Background Color Changer](https://github.com/yashPundhir/Background_Color_Changer)
+
+---
+
 ## Advanced Level JS Assignments:
 
 - ### [Random Quotes Generator](https://github.com/yashPundhir/Random_Quotes_Generator)
