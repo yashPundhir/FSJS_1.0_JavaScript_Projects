@@ -30,6 +30,10 @@
 
 ---
 
+- ### [Binary To Decimal Converter](https://github.com/yashPundhir/Binary_To_Decimal_Converter)
+
+---
+
 ## Advanced Level JS Assignments:
 
 - ### [Random Quotes Generator](https://github.com/yashPundhir/Random_Quotes_Generator)
