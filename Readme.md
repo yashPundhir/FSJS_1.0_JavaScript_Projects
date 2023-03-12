@@ -34,6 +34,10 @@
 
 ---
 
+- ### [Shade Up](https://github.com/yashPundhir/Shade_Up)
+
+---
+
 ## Advanced Level JS Assignments:
 
 - ### [Random Quotes Generator](https://github.com/yashPundhir/Random_Quotes_Generator)
