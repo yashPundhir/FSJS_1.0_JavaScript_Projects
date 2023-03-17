@@ -42,6 +42,10 @@
 
 ---
 
+- ### [Jokes Generator API](https://github.com/yashPundhir/Jokes_Generator-API)
+
+---
+
 ## Advanced Level JS Assignments:
 
 - ### [Random Quotes Generator](https://github.com/yashPundhir/Random_Quotes_Generator)
