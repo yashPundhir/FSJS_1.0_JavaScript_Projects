@@ -64,6 +64,6 @@
 
 ---
 
-- ### [Stopwatch App](https://github.com/yashPundhir/Stopwatch_App)
+- ### [Stopwatch App](https://github.com/yashPundhir/Stopwatch_Ap)
 
 ---
